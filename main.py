@@ -5,6 +5,7 @@ import threading
 import time
 
 # RTSP URLs cho các camera
+#RTSP_URLx = "rtsp://user:passwd@IP:Port RTSP/live"
 RTSP_URL1 = "rtsp://admin:cxview2025@10.20.5.216:554/live"
 RTSP_URL2 = "rtsp://admin:cxview2025@10.20.5.217:554/live"
 RTSP_URL3 = "rtsp://admin:cxview2025@10.20.5.218:554/live"
