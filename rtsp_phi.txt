@@ -1,0 +1,8 @@
+rtsp://admin:12345abc@192.168.1.188:554/live
+rtsp://admin:12345abc@192.168.1.35:554/live
+rtsp://admin:12345abc@192.168.1.189:554/live
+rtsp://admin:12345abc@192.168.1.138:554/live
+rtsp://admin:12345abc@192.168.1.123:554/live
+rtsp://admin:12345abc@192.168.1.178:554/live
+rtsp://admin:12345abc@192.168.1.182.554/live
+rtsp://admin:12345abc@192.168.1.180:554/live
